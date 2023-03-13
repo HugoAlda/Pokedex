@@ -1,0 +1,15 @@
+* {
+    background-color: rgb(152, 237, 24);
+    font-family: 'Press Start 2P', cursive;
+    @import url(https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap);
+}
+
+body img {
+    height: 40%;
+    width: auto;
+    padding-top: 60px;
+}
+
+body h4 {
+    border-radius: 50px;
+}
