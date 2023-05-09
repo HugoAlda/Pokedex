@@ -9,7 +9,7 @@ body header {
   background-size: scale;
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url(/img/kanto-map.jpeg);
+  background-image: url(../img/kanto-map.jpeg);
   background-size: cover;
   background-position: center;
   padding: 0px;
